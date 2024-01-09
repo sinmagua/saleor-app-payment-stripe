@@ -89,6 +89,7 @@
     "@graphql-codegen/add": "5.0.0",
     "@graphql-codegen/cli": "5.0.0",
     "@graphql-codegen/introspection": "4.0.0",
+    "@graphql-codegen/schema-ast": "4.0.0",
     "@graphql-codegen/typed-document-node": "5.0.1",
     "@graphql-codegen/typescript": "4.0.1",
     "@graphql-codegen/typescript-operations": "4.0.1",
@@ -116,7 +117,6 @@
     "@typescript-eslint/parser": "6.14.0",
     "@vanilla-extract/vite-plugin": "3.9.3",
     "@vitest/coverage-v8": "0.34.2",
-    "vite": "5.0.8",
     "dependency-cruiser": "15.5.0",
     "eslint": "8.55.0",
     "eslint-config-next": "14.0.4",
@@ -133,6 +133,7 @@
     "setup-polly-jest": "0.11.0",
     "ts-node": "10.9.2",
     "typescript": "5.3.3",
+    "vite": "5.0.8",
     "vite-tsconfig-paths": "4.2.2",
     "vitest": "0.34.2"
   },
